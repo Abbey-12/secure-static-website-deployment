@@ -23,13 +23,18 @@ Terraform infrastructure-as-code (IaC) for deploying a secure static website to 
 ## Quick Start
 
 ### 1. Clone Repository
+```
 git clone https://github.com/Abbey-12/secure-static-website-deployment.git
 cd secure-static-website-deployment
+```
 
 ### 2. Initialize Terraform
+```
 terraform init
-
+```
 
 ### 4. Deploy Infrastructure
+```
 terraform apply
 
+```
